@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgba(28, 25, 25, 0.67);
+}
+
+nav{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    font-family: Copperplate , fantasy ;
+    text-align: center;
+    background-color: aqua;
+}
+
+img{
+    margin-top: 2%;
+    height: 50px;
+    margin-right: 3%;
+    margin-left: auto;
+}
+
+.navTxt{
+    margin-left: 8%;
+    font-size: 34px;
+}
+
+.navChinese{
+    position: relative;
+    margin-right: auto;
+    margin-right:10%; 
+    font-size: 30px;
+}
+
+.svjIMAGE{
+    margin-top: 2%;
+    height: 670px;
+    width: 100%;
+    background-image: url(svjback.png);
+    background-size: cover;
+}
+
+.interiorTXT{
+    margin-left: 40px;
+    margin-top: 60px;
+    font-size: 50px;
+    font-family: Copperplate , fantasy ;
+}
+
+.interior{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.box{
+    margin-top: 60px;
+    height: 280px;
+    width: 20%;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.box1{
+    background-image: url(svj1.jpeg);
+    background-size: cover;
+}
+
+.box2{
+    background-image: url(sv2.jpeg);
+    background-size: cover;
+}
+
+.box3{
+    background-image: url(svj3.jpeg);
+    background-size: cover;
+}
+
+.box4{
+    background-image: url(svj4.jpeg);
+    background-size: cover;
+}
+
+.exteriorTxT{
+    margin-left: 40px;
+    margin-top: 60px;
+    font-size: 50px;
+    font-family: Copperplate , fantasy ;
+}
+
+.exterior{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.box5{
+    background-image: url(svj5.jpeg);
+    background-size: cover;
+}
+
+.box6{
+    background-image: url(svj6.jpeg);
+    background-size: cover;
+}
+
+.box7{
+    background-image: url(svj7.jpeg);
+    background-size: cover;
+}
+
+.box8{
+    background-image: url(svj8.jpeg);
+    background-size: cover;
+}
+
+.copy{
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+

@@ -1,0 +1,276 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgba(28, 25, 25, 0.67);
+}
+
+nav{
+    display: flex;
+    height: 90px;
+    width: 100%;
+    font-family: Copperplate , fantasy ;
+    text-align: center;
+}
+
+img{
+    margin-top: 35px;
+    height: 50px;
+    margin-right: 3%;
+    margin-left: auto;
+}
+
+.navTxt{
+    
+    margin-left: 8%;
+    font-size: 50px;
+}
+
+.navChinese{
+    position: relative;
+    margin-right: auto;
+    margin-right:10%; 
+    font-size: 35px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.box{
+    margin-top: 60px;
+    height: 280px;
+    width: 20%;
+    position: relative;
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.box1{
+    background-image: url(svj.jpeg);
+    background-size: cover;
+}
+
+.box2{
+    background-image: url(Lamborghini\ Urus.jpeg);
+    background-size: cover;
+}
+
+.box3{
+    background-image: url(hurecan.jpeg);
+    background-size: cover;
+}
+
+.box4{
+    background-image: url(Centenario\ Roadster.jpeg);
+    background-size: cover;
+}
+
+.box5{
+    background-image: url(Ferrari\ LaFerrari\ Aperta.jpeg);
+    background-size: cover;
+}
+
+.box6{
+    background-image: url(812F.jpeg);
+    background-size: cover;
+}
+
+.box7{
+    background-image: url(Racing\ Firestorm\ Ferrari\ 488\ Pista_.jpeg);
+    background-size: cover;
+}
+
+.box8{
+    background-image: url(EnzoFerrari.jpeg);
+    background-size: cover;
+}
+
+.box9{
+    background-image: url(Bugatti\ Chiron.jpeg);
+    background-size: cover;
+}
+
+.box10{
+    background-image: url(Labugatti.jpeg);
+    background-size: cover;
+}
+
+.box11{
+    background-image: url(veyron.jpeg);
+    background-size: cover;
+}
+
+.box12{
+    background-image: url(BUGATTI\ DIVO.jpeg);
+    background-size: cover;
+}
+
+.box13{
+    background-image: url(BMW\ M3\ Competition.jpeg);
+    background-size: cover;
+}
+
+.box14{
+    background-image: url(M4.jpeg);
+    background-size: cover;
+}
+
+.box15{
+    background-image: url(Купе\ BMW\ M4\ GT3.jpeg);
+    background-size: cover;
+}
+
+.box16{
+    background-image: url(BMW\ XM.jpeg);
+    background-size: cover;
+}
+
+.box17{
+    background-image: url(McLaren\ Senna\ GTR\ _\ THE-LOWDOWN_com\ _\ Platinum\ 1\ Auto\ Group.jpeg);
+    background-size: cover;
+}
+
+.box18{
+    background-image: url(McLaren\ P1\ GTR.jpeg);
+    background-size: cover;
+}
+
+.box19{
+    background-image: url(McLaren\ 765LT\ V8\ Supercar\ _\ Scissor\ Doors.jpeg);
+    background-size: cover;
+}
+
+.box20{
+    background-image: url(McLaren\ Artura.jpeg);
+    background-size: cover;
+}
+
+.box21{
+    background-image: url(mustang.jpeg);
+    background-size: cover;
+}
+
+.box22{
+    background-image: url(ford\ Gt.jpeg);
+    background-size: cover;
+}
+
+.box23{
+    background-image: url(bronco.jpeg);
+    background-size: cover;
+}
+
+.box24{
+    background-image: url(RAM\ 1500\ TRX.jpeg);
+    background-size: cover;
+}
+
+.box25{
+    background-image: url(Ford\ Bronco\ Wildtrak.jpeg);
+    background-size: cover;
+}
+
+.box26{
+    background-image: url(Porsche\ 911\ GT3\ RS.jpeg);
+    background-size: cover;
+}
+
+.box27{
+    background-image: url(911.jpeg);
+    background-size: cover;
+}
+
+.box28{
+    background-image: url(Porsche\ cayman.jpeg);
+    background-size: cover;
+}
+
+.box29{
+    background-image: url(Porsche\ 911\ carrera\ 4\ gts.jpeg);
+    background-size: cover;
+}
+
+.box30{
+    background-image: url(AMG\ GT.jpeg);
+    background-size: cover;
+}
+
+.box31{
+    background-image: url(Project\ One.jpeg);
+    background-size: cover;
+}
+
+.box32{
+    background-image: url(s\ class\ s63.jpeg);
+    background-size: cover;
+}
+
+.box33{
+    background-image: url(G-Wagon.jpeg);
+    background-size: cover;
+}
+
+.box34{
+    background-image: url(Koenigsegg\ Regera.jpeg);
+    background-size: cover;
+}
+
+.box35{
+    background-image: url(CCGT.jpeg);
+    background-size: cover;
+}
+
+.box36{
+    background-image: url(Absolut.jpeg);
+    background-size: cover;
+}
+
+.box37{
+    background-image: url(Gemera.jpeg);
+    background-size: cover;
+}
+
+.box38{
+    background-image: url(Pagani\ Huayra.jpeg);
+    background-size: cover;
+}
+
+.box39{
+    background-image: url(Pagani\ Zonda.jpeg);
+    background-size: cover;
+}
+
+.box40{
+    background-image: url(Utopia.jpeg);
+    background-size: cover;
+}
+
+.box41{
+    background-image: url(Huayra\ Imola.jpeg);
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.box-content {
+    position: absolute;
+    bottom: 10px; 
+    left: 10px; 
+    font-size: 20px; 
+    font-family: Copperplate , fantasy ;
+    padding: 5px; 
+}
+
+.copy{
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
