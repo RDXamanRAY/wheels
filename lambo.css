@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header h1{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+.Elegance h3{
+    color: rgb(200, 84, 12);
+    font-weight: 900;
+
+}
+
+.Elegance h1{
+    font-weight: 900;
+}
+
+.Elegance p{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Elegance button{
+    height: 48px;
+    width: 189px;
+    border-radius: 25px;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+}
+
+.Icon h1{
+    font-weight: 900;
+}
+
+.Icon p{
+    font-weight: 700;
+}
+
+.Unleash p{
+        font-size: 20px;
+        font-weight: 700;
+        color: gray;
+}
+
+.Unleash h1{
+    font-weight: 900;
+    color: rgb(200, 84, 12);
+}
+
+
+
